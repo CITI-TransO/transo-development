@@ -1,0 +1,1692 @@
+<VRP version="1.0" encoding="UTF-8" countPoint="116" countDepot="6" countVehicle="5" index="0" problemType="0">
+<Points>
+<Point>
+<Identificador>1</Identificador>
+<AxisX>-82.42436
+</AxisX>
+<AxisY>23.125199
+</AxisY>
+<Descripcion>Modesto R. Gómez Crespo</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>22 e/ 1ra y Mar,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>2</Identificador>
+<AxisX>-82.3881905
+</AxisX>
+<AxisY>22.972935
+</AxisY>
+<Descripcion>Carlos
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>192 e/ 399 y 401, Santiago de las Vegas,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>3</Identificador>
+<AxisX>-82.419536
+</AxisX>
+<AxisY>23.096926
+</AxisY>
+<Descripcion>Esther S. Michelena Fernández
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>68 y 43 ,  Playa , La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>4</Identificador>
+<AxisX>-82.385794
+</AxisX>
+<AxisY>23.117557
+</AxisY>
+<Descripcion>Esther Ansola Hazday
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Ayuntamiento e/ Lombillo  y San Pedro, Plaza,  Plaza de la Revolución, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>5</Identificador>
+<AxisX>-82.461532
+</AxisX>
+<AxisY>23.019077
+</AxisY>
+<Descripcion>Martha Dunia Delgado Dapena
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>29 e/ 204 a y 204 b, Comunidad Granma, La Coronela,  La Lisa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>6</Identificador>
+<AxisX>-82.168376
+</AxisX>
+<AxisY>22.976987
+</AxisY>
+<Descripcion> Reyniel Gómez González
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>45 e/ 136 y 138, Jamaica,  San José de Las Lajas, Mayabeque
+</Direccion>
+</Point>
+<Point>
+<Identificador>7</Identificador>
+<AxisX>-82.369463
+</AxisX>
+<AxisY>23.112699
+</AxisY>
+<Descripcion> José María Ameneiros Martínez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>San Indalecio e/ Agua Dulce y Vía Blanca ,  ,  Cerro, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>8</Identificador>
+<AxisX>-82.38526088
+</AxisX>
+<AxisY>23.0831213
+</AxisY>
+<Descripcion> Tania Carbonell Morales
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Camaguey e/ Pastora  y 13, Casino Deportivo,  Cerro, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>9</Identificador>
+<AxisX>-82.373335
+</AxisX>
+<AxisY>23.083879
+</AxisY>
+<Descripcion> Anaisa Hernández González
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Gertrudis e/ Dstrampes y Goicuría, Reparto Sevillano,  Diez de Octubre, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>10</Identificador>
+<AxisX>-82.27652514
+</AxisX>
+<AxisY>23.05443617
+</AxisY>
+<Descripcion> Janette Santos Baranda
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Lindero e/ 218 y 219, Cruz Verde,  Cotorro, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>11</Identificador>
+<AxisX>-82.4233385
+</AxisX>
+<AxisY>23.096563
+</AxisY>
+<Descripcion> Ana Isabel González Santos
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 29 c e/ 70 y 72, Buenavista,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>12</Identificador>
+<AxisX>-82.482521
+</AxisX>
+<AxisY>23.048725
+</AxisY>
+<Descripcion> Fermin
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Ave 23  e/ 308 y 310, Barbosa,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>13</Identificador>
+<AxisX>-82.379772
+</AxisX>
+<AxisY>23.088044
+</AxisY>
+<Descripcion> Daniel Alfonso Robaina
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Parque e/ Amado y Aranguren, apto 22, Monaco,  Diez de Octubre, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>14</Identificador>
+<AxisX>-82.406619
+</AxisX>
+<AxisY>23.121839
+</AxisY>
+<Descripcion>Alfredo Javier Simón Cuevas
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 28 e/ 23 y 28, apto 4, Vedado,  Plaza de la Revolución, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>15</Identificador>
+<AxisX>-82.36954
+</AxisX>
+<AxisY>23.094426
+</AxisY>
+<Descripcion> Rolando L. Serra Toledo
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Santa Catalina e/ Saco y Luz Caballero, Santos Suárez,  Diez de Octubre, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>16</Identificador>
+<AxisX>-82.37955445
+</AxisX>
+<AxisY>23.12960635
+</AxisY>
+<Descripcion> Alejandro Rosete Suárez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Lugareño e/ Luaces y Almendares,  Plaza de la Revolución, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>17</Identificador>
+<AxisX>-82.411905
+</AxisX>
+<AxisY>23.024255
+</AxisY>
+<Descripcion> Tania Rodríguez Moliner
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>229 e/ 229a y 206, Fontanar,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>18</Identificador>
+<AxisX>-82.388645
+</AxisX>
+<AxisY>22.966988
+</AxisY>
+<Descripcion> Wenny Hojas Mazo
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>194 e/ 413 y 419, Santiago de las Vegas,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>19</Identificador>
+<AxisX>-82.388691
+</AxisX>
+<AxisY>23.0840625
+</AxisY>
+<Descripcion> Margarita André Ampuero
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>10 e/ 11 y Canal, Casino Deportivo,  Cerro, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>20</Identificador>
+<AxisX>-82.325754
+</AxisX>
+<AxisY>23.0991665
+</AxisY>
+<Descripcion> José Antonio Acevedo Suárez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>7ma e/ 4ta y 6ta, Ciudamar,  San Miguel del Padrón, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>21</Identificador>
+<AxisX>-82.41319581
+</AxisX>
+<AxisY>23.02414419
+</AxisY>
+<Descripcion> Hmberto Díaz Pando
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>227 e/ 218 y 222, Fontanar,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>22</Identificador>
+<AxisX>-82.427266
+</AxisX>
+<AxisY>23.096519
+</AxisY>
+<Descripcion>Yannelys V. Jerez Naranjo
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>76 e/ 29 y 29A, Playa,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>23</Identificador>
+<AxisX>-82.3922995
+</AxisX>
+<AxisY>23.0091655
+</AxisY>
+<Descripcion> Lilia Rosa García Perellada
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>281 e/ 184 y 188, Baluarte,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>24</Identificador>
+<AxisX>-82.29866079
+</AxisX>
+<AxisY>23.1143495
+</AxisY>
+<Descripcion> Juan Cabezola Ruiz
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Barrutia e/ Torroella y Ignacio Clemente, apto 63, D'Beche,  Guanabacoa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>25</Identificador>
+<AxisX>-82.315227
+</AxisX>
+<AxisY>23.075465
+</AxisY>
+<Descripcion> David Omar Reina Velázquez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>A e/ 1ra  y Carretera Central, Maria Luisa,  San Miguel del Padrón, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>26</Identificador>
+<AxisX>-82.46301457
+</AxisX>
+<AxisY>23.05531916
+</AxisY>
+<Descripcion> Annia Santos Arévalo
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>39 e/ 236 y 240, San Agustin,  La Lisa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>27</Identificador>
+<AxisX>-82.41283</AxisX>
+<AxisY>23.132268</AxisY>
+<Descripcion> **CORREGIR**</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 3ra # 114 e/  B y  C, Habana Nueva, Gcoa</Direccion>
+</Point>
+<Point>
+<Identificador>28</Identificador>
+<AxisX>-82.439007
+</AxisX>
+<AxisY>23.081622
+</AxisY>
+<Descripcion>Lissette Brito Rodríguez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>11 a e/ 274 y 276, Santa Fe,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>29</Identificador>
+<AxisX>-82.42082579
+</AxisX>
+<AxisY>23.05638345
+</AxisY>
+<Descripcion> Guianeya Gutiérrez Vega
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>118, Micro Cujae,  Marianao, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>30</Identificador>
+<AxisX>-82.42436
+</AxisX>
+<AxisY>23.125199
+</AxisY>
+<Descripcion>Yoimi Trujillo Reyna
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>22 e/ 1ra y Mar,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>31</Identificador>
+<AxisX>-82.387984
+</AxisX>
+<AxisY>23.144735
+</AxisY>
+<Descripcion>Yoiselen
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>L e/ 11 y Calzada, Vedado,  Plaza de La Revolución, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>32</Identificador>
+<AxisX>-82.40773142
+</AxisX>
+<AxisY>23.02422111
+</AxisY>
+<Descripcion> Yanamari Bancroft Pérez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>229 e/ 206 y 210, Fontanar,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>33</Identificador>
+<AxisX>-82.424572
+</AxisX>
+<AxisY>23.002592
+</AxisY>
+<Descripcion> Karen Sanabria Ortega
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>274 e/ 269 y 279, Wajay,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>34</Identificador>
+<AxisX>-82.384808
+</AxisX>
+<AxisY>22.987764
+</AxisY>
+<Descripcion> Carlos Guerra Astorga
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>182 A e/ 176 y 178, Primero de Mayo,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>35</Identificador>
+<AxisX>-82.400508
+</AxisX>
+<AxisY>23.11673
+</AxisY>
+<Descripcion> Ruslan Muñoz Hernández
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>37 e/ 26 y 28, Nuevo Vedado,  Plaza de La Revolución, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>36</Identificador>
+<AxisX>-82.136682
+</AxisX>
+<AxisY>23.165688
+</AxisY>
+<Descripcion> David A. Moreno Pérez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Quebec e/ Guatemala y Montevideo, Guanabo,  Habana del Este, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>37</Identificador>
+<AxisX>-82.304938
+</AxisX>
+<AxisY>23.149538
+</AxisY>
+<Descripcion> Adrián Rodríguez Ramos
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 15 e/ 82 y Casablanca, Piso 8 apto 1, Guiteras,  Habana del Este, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>38</Identificador>
+<AxisX>-82.372481</AxisX>
+<AxisY>23.013682</AxisY>
+<Descripcion>**CORREGIR**</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>108 # 29313 e/ 293 y 295, Calabazar, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>39</Identificador>
+<AxisX>-82.41993845
+</AxisX>
+<AxisY>23.07840255
+</AxisY>
+<Descripcion> Nancy de la C. Enrich Jústiz
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>100 e/ 59 y 61,  Marianao, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>40</Identificador>
+<AxisX>-82.4130148
+</AxisX>
+<AxisY>23.02212421
+</AxisY>
+<Descripcion> Janet Carvajal de la Osa
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>231 e/ 220 y 224, Fontanar,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>41</Identificador>
+<AxisX>-82.435319
+</AxisX>
+<AxisY>23.099563
+</AxisY>
+<Descripcion> Adriana V. Acosta Corzo
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Ave 82 e/ 15 y 17,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>42</Identificador>
+<AxisX>-82.4368645
+</AxisX>
+<AxisY>23.10026
+</AxisY>
+<Descripcion> Carmen Busoch Morlán
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 13  e/ 82 y 84,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>43</Identificador>
+<AxisX>-82.3647625
+</AxisX>
+<AxisY>23.09579
+</AxisY>
+<Descripcion> Martha Irizar Mesa
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Párraga #54 e/ Estrada Palma y Libertad, Apto 4, Santos Suárez,  Diez de Octubre, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>44</Identificador>
+<AxisX>-82.46484457
+</AxisX>
+<AxisY>23.05857603
+</AxisY>
+<Descripcion> Mario E. Rojas Zambrano
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>232 #Edif 121 e/ 33 y 35, apto 24, San Agustin,  La Lisa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>45</Identificador>
+<AxisX>-82.369028
+</AxisX>
+<AxisY>23.137176
+</AxisY>
+<Descripcion> Odalys Álvarez Rodríguez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Gervasio #302 e/ Neptuno y San Miguel,  Centro Habana, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>46</Identificador>
+<AxisX>-82.34380761
+</AxisX>
+<AxisY>23.08866158
+</AxisY>
+<Descripcion> Dania Olga Abreu Hernández
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>19 e/ Pocito y Tejar, Lawton,  Diez de Octubre, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>47</Identificador>
+<AxisX>-82.40959718
+</AxisX>
+<AxisY>23.02353859
+</AxisY>
+<Descripcion> Janet Otmara Martínez Cid
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>229 e/ 210 y 216, Apto.18, Fontanar,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>48</Identificador>
+<AxisX>-82.385948
+</AxisX>
+<AxisY>23.117086
+</AxisY>
+<Descripcion>Alejandro López Llanusa
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>3ra e/ Ayuntamiento y Ayestarán,  Plaza de laRevolución, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>49</Identificador>
+<AxisX>-82.413669
+</AxisX>
+<AxisY>23.081668
+</AxisY>
+<Descripcion> Yoermes González Haramboure
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>90 B e/ 61 y 63,  Marianao, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>50</Identificador>
+<AxisX>-82.352433
+</AxisX>
+<AxisY>23.098999
+</AxisY>
+<Descripcion> Maray Garrido Monagas
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>  E e/ Porvenir y Martínez, Lawton,  Diez de Octubre, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>51</Identificador>
+<AxisX>-82.307459
+</AxisX>
+<AxisY>23.133681
+</AxisY>
+<Descripcion> Yakelin Rodríguez López
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Ave. Guanabacoa e/ 1ra y 3ra, Reparto Chibás,  Guanabacoa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>52</Identificador>
+<AxisX>-82.41282251
+</AxisX>
+<AxisY>23.10379077
+</AxisY>
+<Descripcion> Vivian Elena Parnas
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>52 e/ 45a y 47, La Ceiba,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>53</Identificador>
+<AxisX>-82.385948
+</AxisX>
+<AxisY>23.117086
+</AxisY>
+<Descripcion>Ingrid Fernández Lorenzo
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>3ra e/ Ayuntamiento y Ayestarán,  Plaza de laRevolución, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>54</Identificador>
+<AxisX>-82.4090503
+</AxisX>
+<AxisY>23.02128063
+</AxisY>
+<Descripcion> Patricia Martín Rodríguez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>235 e/ 210 y 216, Fontanar,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>55</Identificador>
+<AxisX>-82.2573085
+</AxisX>
+<AxisY>23.0421475
+</AxisY>
+<Descripcion> Anadelys Alonso Aenlle
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>91  e/ 38 y 40, ALTOS,  Cotorro, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>56</Identificador>
+<AxisX>-82.398321
+</AxisX>
+<AxisY>23.068368
+</AxisY>
+<Descripcion>  Orlando R Carraz Hernández
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion> Parque e/ A y B, Altahabana,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>57</Identificador>
+<AxisX>-82.413669
+</AxisX>
+<AxisY>23.081668
+</AxisY>
+<Descripcion>  Nuria Vaillant López
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>90 B e/ 61 y 63,  Marianao, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>58</Identificador>
+<AxisX>-82.32990847
+</AxisX>
+<AxisY>23.12484144
+</AxisY>
+<Descripcion> Miguel Castro Fernández
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calixto García e/ Perdomo y Rubiera, Regla,  Regla, Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>59</Identificador>
+<AxisX>-82.391327
+</AxisX>
+<AxisY>22.930518
+</AxisY>
+<Descripcion>Yandry Rodríguez Domínguez
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>25 e/ 8 y 10, Buenaventura,  Bejucal, Mayabeque
+</Direccion>
+</Point>
+<Point>
+<Identificador>60</Identificador>
+<AxisX>-82.3902475
+</AxisX>
+<AxisY>23.1352615
+</AxisY>
+<Descripcion> Diego de los A. Fernández Labrada
+ </Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>E e/ 21 y 23, Vedado,  Plaza de la Revolucion, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>61</Identificador>
+<AxisX>-82.391614
+</AxisX>
+<AxisY>23.071246
+</AxisY>
+<Descripcion> Rafael Pomares Tabares
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Vento  e/ 100 y Embil, La Construcción,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>62</Identificador>
+<AxisX>-82.3795295
+
+</AxisX>
+<AxisY>23.1220785
+
+</AxisY>
+<Descripcion>Orestes Hernández Areu
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Emilio Núñez e/ 20 de mayo y Enrique Villuenda, Ayestarán,  Cerro, Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>63</Identificador>
+<AxisX>-82.429698
+
+</AxisX>
+<AxisY>23.1040115
+
+</AxisY>
+<Descripcion>Ariel Santos Fuentefrías
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>17 e/ 68 y 70, Ampliación Almendares,  Playa, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>64</Identificador>
+<AxisX>-82.5083905
+
+</AxisX>
+<AxisY>22.8870595
+
+</AxisY>
+<Descripcion>Raynel Díaz Santos
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Ave 53 e/ 70 y 72,  San Antonio de los Baños, Artemisa
+</Direccion>
+</Point>
+<Point>
+<Identificador>65</Identificador>
+<AxisX>-82.4282565
+
+</AxisX>
+<AxisY>23.0604575
+
+</AxisY>
+<Descripcion>Marta Beatriz Infante Abreu
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>128B  e/ 101 y 103, El Palmar,  Marianao, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>66</Identificador>
+<AxisX>-82.482521
+
+</AxisX>
+<AxisY>23.048725
+
+</AxisY>
+<Descripcion>Annette Malleuve  Martínez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Avenida 23  e/ 308 y 310, Apto 34, Barbosa,  Playa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>67</Identificador>
+<AxisX>-82.428259
+
+</AxisX>
+<AxisY>23.0822515
+
+</AxisY>
+<Descripcion> Jeffrey Blanco González
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>108 e/ 35 y 37,  Marianao, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>68</Identificador>
+<AxisX>-82.4485785
+
+</AxisX>
+<AxisY>23.056907
+
+</AxisY>
+<Descripcion> María Julia Becerra Alonso
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>214A e/ 81 y 73,  La Lisa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>69</Identificador>
+<AxisX>-82.431612
+
+</AxisX>
+<AxisY>23.11837
+
+</AxisY>
+<Descripcion>Janett  Rodríguez Acosta
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>40 A e/ 1ra y 3ra, Miramar,  Playa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>70</Identificador>
+<AxisX>-82.294751
+
+</AxisX>
+<AxisY>23.164603
+
+</AxisY>
+<Descripcion> Yuniel Bolaño Rodríguez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle Río e/ Real y Pezuela, Cojimar,  Habana del Este, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>71</Identificador>
+<AxisX>-82.402625
+
+</AxisX>
+<AxisY>23.061258
+
+</AxisY>
+<Descripcion> Narciso Abel Piñero Rodríguez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle Norte e/ 1ra y 2da, Residencial Almendares,  Boyeros, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>72</Identificador>
+<AxisX>-82.3797235
+
+</AxisX>
+<AxisY>23.1404455
+
+</AxisY>
+<Descripcion> Igor Lopes Martínez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle O e/ Humboldt y 25, Vedado,  Plaza de la Revolución, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>73</Identificador>
+<AxisX>-82.4044505
+
+</AxisX>
+<AxisY>23.1259725
+
+</AxisY>
+<Descripcion> Evert Martínez Pérez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 20 e/ 19 y 21, Vedado,  Plaza de la Revolución, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>74</Identificador>
+<AxisX>-82.458699
+
+</AxisX>
+<AxisY>23.0546145
+
+</AxisY>
+<Descripcion> Yadary Cecilia  Ortega González
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Avenida 51 e/ 232 y 234, San Agustin,  La Lisa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>75</Identificador>
+<AxisX>-81.9163475
+
+</AxisX>
+<AxisY>22.786194
+
+</AxisY>
+<Descripcion>Rogej Arturo Marrero Hernández
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Avenida 43 e/ 34 y 36,  San Nicolás de Bari, Mayabeque
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>76</Identificador>
+<AxisX>-82.37955445
+
+</AxisX>
+<AxisY>23.12960635
+
+</AxisY>
+<Descripcion>Mailyn Moreno Espino
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Lugareno e/ Luaces y Almendares,  Plaza de la Revolución, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>77</Identificador>
+<AxisX>-82.367637
+
+</AxisX>
+<AxisY>23.134057
+
+</AxisY>
+<Descripcion> Cynthia Porras Nodarse
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Escobar e/ Zanja y Salud, Los Sitios,  Centro Habana, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>78</Identificador>
+<AxisX>-82.4015385
+
+</AxisX>
+<AxisY>23.130916
+
+</AxisY>
+<Descripcion> Sandra Verona Marcos
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>10 e/ 15 y 17, Vedado,  Plaza de la Revolución, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>79</Identificador>
+<AxisX>-82.4045055
+
+</AxisX>
+<AxisY>23.13340622
+
+</AxisY>
+<Descripcion> Leandro Zambrano Méndez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Línea e/ 10 y 12, Vedado,  Plaza de la Revolución, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>80</Identificador>
+<AxisX>-82.4295585
+
+</AxisX>
+<AxisY>23.079872
+
+</AxisY>
+<Descripcion> Eduardo Sanchez Ansola
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>39 e/ 112 y 114,  Marianao, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>81</Identificador>
+<AxisX>-82.374251
+
+</AxisX>
+<AxisY>23.087199
+
+</AxisY>
+<Descripcion> Carlos Ramon Paz
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>D'strampes e/ Espadero y Freyre de Andrade, Sevillano,  Diez de Octubre, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>82</Identificador>
+<AxisX>-82.365005
+
+</AxisX>
+<AxisY>23.105846
+
+</AxisY>
+<Descripcion> Héctor Machado Navarro
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>10 de octubre e/ Zapotes y Santa Irene, Santos Suárez,  Diez de Octubre, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>83</Identificador>
+<AxisX>-82.380437
+
+</AxisX>
+<AxisY>23.104279
+
+</AxisY>
+<Descripcion>Yasser L. Bardají López
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Esperanza e/ Parque y Recreo, El Canal,  Cerro, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>84</Identificador>
+<AxisX>-82.284788
+
+</AxisX>
+<AxisY>23.054947
+
+</AxisY>
+<Descripcion> Deny Oliva Merencio
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Blanco e/ 101 y Línea, Las Granjas,  Cotorro, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>85</Identificador>
+<AxisX>-82.420495
+
+</AxisX>
+<AxisY>23.124021
+
+</AxisY>
+<Descripcion> Miguel Alfonso Sandelis
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 18 e/ 3ra y 5ta, Miramar,  Playa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>86</Identificador>
+<AxisX>-82.39857186
+
+</AxisX>
+<AxisY>23.11458477
+
+</AxisY>
+<Descripcion> Perla Sarría Popowski
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 26 e/ Conill y 45, Apto. 8,  Plaza de la Revolución, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>87</Identificador>
+<AxisX>-82.3605275
+
+</AxisX>
+<AxisY>23.12794
+
+</AxisY>
+<Descripcion> Alberto Menéndez Pérez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Florida e/ Misión y Esperanza,  Habana Vieja, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>88</Identificador>
+<AxisX>-82.394985
+</AxisX>
+<AxisY>23.069067
+</AxisY>
+<Descripcion>Laksmi Penabad Sanz
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle B e/ 7 y 8, Altahabana,  Boyeros, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>89</Identificador>
+<AxisX>-82.413345
+
+</AxisX>
+<AxisY>23.112445
+
+</AxisY>
+<Descripcion>Abel Fumero Perez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Kolhy e/ 41 y 43, Nuevo Vedado,  Plaza de la Revolución, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>90</Identificador>
+<AxisX>-82.38491358
+
+</AxisX>
+<AxisY>22.97050442
+
+</AxisY>
+<Descripcion> Armando Díaz Concepción
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>405 e/ 182 y 184, Santiago de las Vegas,  Boyeros, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>91</Identificador>
+<AxisX>-82.473332
+
+</AxisX>
+<AxisY>23.0126395
+
+</AxisY>
+<Descripcion>Joel Morales Salas
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 161 e/ 310 y 314, Valle Grande,  La Lisa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>92</Identificador>
+<AxisX>-82.328649
+
+</AxisX>
+<AxisY>23.061389
+
+</AxisY>
+<Descripcion>Víctor Manuel Mir Labrada
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle Palmas e/ Central y Lindero, Calvario,  Arroyo Naranjo, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>93</Identificador>
+<AxisX>-82.400405
+
+</AxisX>
+<AxisY>23.058569
+
+</AxisY>
+<Descripcion> Joyce E. Taboada Díaz
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle8 y E , Altahabana,  Boyeros, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>94</Identificador>
+<AxisX>-82.395151
+
+</AxisX>
+<AxisY>23.119909
+
+</AxisY>
+<Descripcion> Alejandro Romero Vega
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 39 e/ Tulipán y Colón,  Plaza de la Revolución, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>95</Identificador>
+<AxisX>-82.161545
+
+</AxisX>
+<AxisY>23.14728
+
+</AxisY>
+<Descripcion> Osney Pérez Ones
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Carretera de Justiz e/ Norte y Lindero, Reparto Agromar,  Habana del Este, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>96</Identificador>
+<AxisX>-82.386491
+
+</AxisX>
+<AxisY>23.100492
+
+</AxisY>
+<Descripcion> Elina Fernández Santana
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Fomento e/ 3ra y 4ta, Palatino,  Cerro, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>97</Identificador>
+<AxisX>-82.42082579
+
+</AxisX>
+<AxisY>23.05638345
+
+</AxisY>
+<Descripcion> Beatriz Guerra Álvarez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 118 e/ 119 y 119A,  Marianao, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>98</Identificador>
+<AxisX>-82.434948
+
+</AxisX>
+<AxisY>23.078655
+
+</AxisY>
+<Descripcion> Dunia Cortina Acuña
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Avenida 35 e/ 122 y 122A,  Marianao, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>99</Identificador>
+<AxisX>-82.352611
+</AxisX>
+<AxisY>23.0894725
+</AxisY>
+<Descripcion>Susana Rodríguez Muñoz
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>San Francisco e/ 11 y 12, Lawton,  Diez de Octubre, La Habana
+</Direccion>
+</Point>
+<Point>
+<Identificador>100</Identificador>
+<AxisX>-82.3599045
+
+</AxisX>
+<AxisY>23.089433
+
+</AxisY>
+<Descripcion> Denia Coralia González León
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Armas e/ Vista Alegre y San Mariano,  Diez de Octubre, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>101</Identificador>
+<AxisX>-82.365633
+
+</AxisX>
+<AxisY>23.1334325
+
+</AxisY>
+<Descripcion> Julio César Dustet Mendoza
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Salud e/ Manrique y Campanario,  Centro Habana, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>102</Identificador>
+<AxisX>-82.443863
+
+</AxisX>
+<AxisY>23.0681635
+
+</AxisY>
+<Descripcion> Alejandro D. Colina Ortega
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 160 e/ 49 y 51,  La Lisa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>103</Identificador>
+<AxisX>-82.352281
+
+</AxisX>
+<AxisY>23.094079
+
+</AxisY>
+<Descripcion> Pablo Montejo Valdés
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Pocito e/ 9 y 10, Lawton,  diez de octubre, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>104</Identificador>
+<AxisX>-82.458238
+
+</AxisX>
+<AxisY>23.067559
+
+</AxisY>
+<Descripcion> Alexis Manuel Cristobo Brooks
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>210 e/ 29 y 31, Versalles,  La Lisa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>105</Identificador>
+<AxisX>-82.275941
+
+</AxisX>
+<AxisY>23.15278
+
+</AxisY>
+<Descripcion> Narmí Pedroso Jiménez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Edificio1h-3, Alamar 10,  Habana del Este, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>106</Identificador>
+<AxisX>-82.3646505
+
+</AxisX>
+<AxisY>23.079044
+
+</AxisY>
+<Descripcion> Reinaldo G. Elosegui Chappotín
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Gustavo e/ Gonzalo y Dolores, Santa Amalia,  Arrollo Naranjo, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>107</Identificador>
+<AxisX>-82.356007
+
+</AxisX>
+<AxisY>23.058751
+
+</AxisY>
+<Descripcion> Camilo Guillén Soriano
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calixto García e/ Yumurí y Guasimal, Párraga,  Arrollo Naranjo, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>108</Identificador>
+<AxisX>-82.350497
+
+</AxisX>
+<AxisY>23.1339455
+
+</AxisY>
+<Descripcion> Enrique E. Valdés Zaldívar
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Cuba e/ luz y sta. Clara,  Habana Vieja, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>109</Identificador>
+<AxisX>-82.4456685
+
+</AxisX>
+<AxisY>23.0625405
+
+</AxisY>
+<Descripcion>Ángel D. Bárzaga Varela
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>192 e/ 65 y 73,  La Lisa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>110</Identificador>
+<AxisX>-82.390142
+
+</AxisX>
+<AxisY>23.143901
+
+</AxisY>
+<Descripcion> Alexis Castellanos Rodríguez
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>J e/ 9 y 11, Vedado,  Plaza, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>111</Identificador>
+<AxisX>-82.396999
+</AxisX>
+<AxisY>23.116473
+
+
+
+</AxisY>
+<Descripcion> Annia Lisbeth Barbán Acea
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>45  e/ Konill y Tulipán, Nuevo Vedado,  Plaza, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>112</Identificador>
+<AxisX>-82.376065
+
+</AxisX>
+<AxisY>23.104021
+
+</AxisY>
+<Descripcion> Caridad E. Anías Calderón
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Mendoza  e/ Santa Emilia y Santo Suarez, Santo Suarez,  diez de octubre, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>113</Identificador>
+<AxisX>-82.41282251
+
+</AxisX>
+<AxisY>23.10379077
+
+</AxisY>
+<Descripcion> Andrés
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 52 e/ 45 A y 47, La Ceiba, Playa, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>114</Identificador>
+<AxisX>-82.360705
+
+</AxisX>
+<AxisY>23.089397
+
+</AxisY>
+<Descripcion>Danhiz
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Vista Alegre  e/ Lawton y Armas, Acosta, Diez de Octubre, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>115</Identificador>
+<AxisX>-82.377308
+
+</AxisX>
+<AxisY>23.1019875
+
+</AxisY>
+<Descripcion> Barbarita
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Oeste e/ Lacret y Luis Estevez, Santos Suarez,  Diez de Octubre, La Habana
+
+</Direccion>
+</Point>
+<Point>
+<Identificador>116</Identificador>
+<AxisX>-82.4269795
+
+</AxisX>
+<AxisY>23.062012
+
+</AxisY>
+<Descripcion> Mol
+
+</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>126  e/ 97 y 99, El Palmar,  Marianao, La Habana
+
+</Direccion>
+</Point>
+</Points>
+<Depots>
+<Depot>
+<Identificador>117</Identificador>
+<AxisX>-82.519298</AxisX>
+<AxisY>23.065788</AxisY>
+<Descripcion>Depot1</Descripcion>
+<End>0</End>
+<Direccion>Avenida 19 esq Calle 308, El Roble, Playa, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>118</Identificador>
+<AxisX>-82.418739</AxisX>
+<AxisY>23.052476</AxisY>
+<Descripcion>Depot2</Descripcion>
+<End>0</End>
+<Direccion>Avenida 131 esq Calle 211, Marianao, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>119</Identificador>
+<AxisX>-82.418739</AxisX>
+<AxisY>23.052476</AxisY>
+<Descripcion>Depot3</Descripcion>
+<End>0</End>
+<Direccion>Avenida 131 esq Calle 211, Marianao, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>120</Identificador>
+<AxisX>-82.418739</AxisX>
+<AxisY>23.052476</AxisY>
+<Descripcion>Depot4</Descripcion>
+<End>0</End>
+<Direccion>Avenida 131 esq Calle 211, Marianao, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>121</Identificador>
+<AxisX>-82.42459</AxisX>
+<AxisY>23.002995</AxisY>
+<Descripcion>Depot5</Descripcion>
+<End>0</End>
+<Direccion>Calle 274 esq Avenida 269, Wajay, Boyeros, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>123</Identificador>
+<AxisX>-82.418739</AxisX>
+<AxisY>23.052476</AxisY>
+<Descripcion>DepotCUJAE</Descripcion>
+<End>1</End>
+<Direccion>Avenida 131 esq Calle 211, Marianao, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+</Depots>
+<Vehicles>
+<Vehicle>
+<Chapa>HO1417</Chapa>
+<Capacidad>29</Capacidad>
+</Vehicle>
+<Vehicle>
+<Chapa>HTU498</Chapa>
+<Capacidad>49</Capacidad>
+</Vehicle>
+<Vehicle>
+<Chapa>HO3520</Chapa>
+<Capacidad>16</Capacidad>
+</Vehicle>
+<Vehicle>
+<Chapa>HWO623</Chapa>
+<Capacidad>17</Capacidad>
+</Vehicle>
+<Vehicle>
+<Chapa>HO4482</Chapa>
+<Capacidad>14</Capacidad>
+</Vehicle>
+</Vehicles>
+</VRP>

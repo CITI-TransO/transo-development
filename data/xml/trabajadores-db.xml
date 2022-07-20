@@ -1,0 +1,588 @@
+<VRP version="1.0" encoding="UTF-8" countPoint="61" countDepot="6" countVehicle="5" index="0" problemType="0">
+<Points>
+<Point>
+<Identificador>1</Identificador>
+<AxisX>-82.38667</AxisX>
+<AxisY>23.085367</AxisY>
+<Descripcion>Margarita André Ampuero</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>10, Nro. 11614, Entre: Canal y 11, Antonio Maceo (sevillano), CERRO</Direccion>
+</Point>
+<Point>
+<Identificador>2</Identificador>
+<AxisX>-82.41892</AxisX>
+<AxisY>23.025361</AxisY>
+<Descripcion>Edilia Cabrera Galdos</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>219 # 23621 APTO 4 E/ 236 Y 246, Fontanar, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>3</Identificador>
+<AxisX>-82.430195</AxisX>
+<AxisY>23.07063</AxisY>
+<Descripcion>Miriam Lacher Espinosa</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>124 # 6308 altos e/ 63 y 65, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>4</Identificador>
+<AxisX>-82.391115</AxisX>
+<AxisY>23.072028</AxisY>
+<Descripcion>Héctor Ochil Pérez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Vento e/Embil y 100</Direccion>
+</Point>
+<Point>
+<Identificador>5</Identificador>
+<AxisX>-82.403113</AxisX>
+<AxisY>23.071689</AxisY>
+<Descripcion>Roberto Bosch Bayard</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>119 e/ 100 y 100 A, Edificio 28505 Apto 4, Puente Nuevo, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>6</Identificador>
+<AxisX>-82.42329</AxisX>
+<AxisY>23.075783</AxisY>
+<Descripcion> Herminia Quintero Espinosa</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>61 # 10817 e/ 108 y 110, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>7</Identificador>
+<AxisX>-82.394302</AxisX>
+<AxisY>23.059597</AxisY>
+<Descripcion> Rosario Celia Betancourt Griñán</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>PASEO, NRO. 15028, ENTRE: E Y D, ALTAHABANA, BOYEROS</Direccion>
+</Point>
+<Point>
+<Identificador>8</Identificador>
+<AxisX>-82.357991</AxisX>
+<AxisY>23.109523</AxisY>
+<Descripcion> Marietta de los Angeles Gómez Cuervo</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Guasabacoa # 463 apto5 e/ Perez y Rodriguez Este, Luyanó, 10 Oct</Direccion>
+</Point>
+<Point>
+<Identificador>9</Identificador>
+<AxisX>-82.419972</AxisX>
+<AxisY>23.057733</AxisY>
+<Descripcion> Rosa Agustina González Bayón</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>114 e/ 111 y 119, Edificio 11134 Apto 1, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>10</Identificador>
+<AxisX>-82.438233</AxisX>
+<AxisY>23.071184</AxisY>
+<Descripcion> Clara María Beltrán Herrera</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>AVE 49 # 14015 APTO 6 E/ 140 Y 142, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>11</Identificador>
+<AxisX>-82.382064</AxisX>
+<AxisY>23.103087</AxisY>
+<Descripcion> Cifredo Torrejón Leyva</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle Suzarte E/ Via Blanca y Armonia Edificio 717 ½ Apto. 5 B, Cerro</Direccion>
+</Point>
+<Point>
+<Identificador>12</Identificador>
+<AxisX>-82.468615</AxisX>
+<AxisY>23.053209</AxisY>
+<Descripcion> Tamara Montano Frías</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 254 e/ 33 y  35, Edificio 214 Apto 13, San Agustin, La lisa</Direccion>
+</Point>
+<Point>
+<Identificador>13</Identificador>
+<AxisX>-82.390105</AxisX>
+<AxisY>23.055316</AxisY>
+<Descripcion> Anissa Gramatges Ortiz</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Carlos Núñez # 14013 apto 16, e/ 2da y 3ra Rpto Arboleda, Aldabó, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>14</Identificador>
+<AxisX>-82.467236</AxisX>
+<AxisY>23.054662</AxisY>
+<Descripcion>María Elena Bernal Flores</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 246  e/ Avenida 33 C y Avenida 35, Reparto San Agustín  Edificio 33c02 Apto 10 Municipio La Lisa Provincia La Habana</Direccion>
+</Point>
+<Point>
+<Identificador>15</Identificador>
+<AxisX>-82.42474</AxisX>
+<AxisY>23.113372</AxisY>
+<Descripcion> María Carla Pinilla Queral</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 42 e/ Avenida 15 y Avenida 17, Edificio 1507 Apto 3</Direccion>
+</Point>
+<Point>
+<Identificador>16</Identificador>
+<AxisX>-82.363169</AxisX>
+<AxisY>23.095572</AxisY>
+<Descripcion> Maria Karla Navarro Vasallo</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle San Francisco # 15 altos e/ Calle Delicias y Calzada 10 De Octubre, Barrio Lawton</Direccion>
+</Point>
+<Point>
+<Identificador>17</Identificador>
+<AxisX>-82.416007</AxisX>
+<AxisY>23.112268</AxisY>
+<Descripcion> Abdel Rojas Deriche</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 35 # 3602, e/ 36 y 42, Playa</Direccion>
+</Point>
+<Point>
+<Identificador>18</Identificador>
+<AxisX>-82.334304</AxisX>
+<AxisY>23.067856</AxisY>
+<Descripcion> Amanda Romero Cabrera</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Pedro Nuevo # 326 e/ 6 y 7. Mantilla, Arroyo Naranjo</Direccion>
+</Point>
+<Point>
+<Identificador>19</Identificador>
+<AxisX>-82.330709</AxisX>
+<AxisY>23.093359</AxisY>
+<Descripcion> Elena Quintana Rodríguez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>2da # 4830 e/ Garrido y Narcisa, María Cristina, SMP</Direccion>
+</Point>
+<Point>
+<Identificador>20</Identificador>
+<AxisX>-82.379201</AxisX>
+<AxisY>23.128274</AxisY>
+<Descripcion> Frank Botelle Valdés</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Bruzón e/ Almendares y Ayestarán Edif 61 Apto 19, Plaza</Direccion>
+</Point>
+<Point>
+<Identificador>21</Identificador>
+<AxisX>-82.375491</AxisX>
+<AxisY>23.139219</AxisY>
+<Descripcion> Roselio Alejandro Pérez Trujillo</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>San Lázaro / Aramburu y Hospital # 957, Centro Habana</Direccion>
+</Point>
+<Point>
+<Identificador>22</Identificador>
+<AxisX>-82.384393</AxisX>
+<AxisY>23.078893</AxisY>
+<Descripcion> Rosa Amelia Ocaña Bermúdez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 4ta Sur # 17819, Apto 27, e/ Central y Final. 1ro de Mayo, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>23</Identificador>
+<AxisX>-82.517679</AxisX>
+<AxisY>23.076761</AxisY>
+<Descripcion> Adrian Medina Pozo</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Avenida 1 B # 29626 e/ Calle 296 y Calle 298, Reparto Santa Fe, Playa</Direccion>
+</Point>
+<Point>
+<Identificador>24</Identificador>
+<AxisX>-82.426823</AxisX>
+<AxisY>23.003814</AxisY>
+<Descripcion> Joandry Sarmiento Parra</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>243, No 24311, apto 1, e/ 280 y Prensa Latina, INAV-Wajay, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>25</Identificador>
+<AxisX>-82.420409</AxisX>
+<AxisY>23.056018</AxisY>
+<Descripcion> Antonio Rolando Sarmiento Acevedo</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Edif 1 apto 2-A Reparto Micro Cujae, Marianao</Direccion>
+</Point>
+<Point>
+<Identificador>26</Identificador>
+<AxisX>-82.462117</AxisX>
+<AxisY>23.064728</AxisY>
+<Descripcion> Ana Daylin Rodríguez González</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>31 e/ 218 y 222, Edificio 21802 Apto 5, La Coronela, la Lisa</Direccion>
+</Point>
+<Point>
+<Identificador>27</Identificador>
+<AxisX>-82.41283</AxisX>
+<AxisY>23.132268</AxisY>
+<Descripcion> Dayrel de la Paz Castané</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 3ra # 114 e/  B y  C, Habana Nueva, Gcoa</Direccion>
+</Point>
+<Point>
+<Identificador>28</Identificador>
+<AxisX>-82.426452</AxisX>
+<AxisY>23.107632</AxisY>
+<Descripcion>Joan Pablo Fernandez Cambó</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>60 # 1515 Apto 103 E/ 17 Y 15, Ampl Almensares, Playa</Direccion>
+</Point>
+<Point>
+<Identificador>29</Identificador>
+<AxisX>-82.372482</AxisX>
+<AxisY>23.096803</AxisY>
+<Descripcion> Yanet de la Noval Rodríguez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Figueroa # 219A apt1 e/ Libertad y Milagros Oeste, Santos Suarez, 10 Oct</Direccion>
+</Point>
+<Point>
+<Identificador>30</Identificador>
+<AxisX>-82.392664</AxisX>
+<AxisY>23.070176</AxisY>
+<Descripcion>Rafael Mazo Dominguez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle Vento e/ Calle Embill y Calle 100, Edificio 7507 Apto 8, Reparto Embil</Direccion>
+</Point>
+<Point>
+<Identificador>31</Identificador>
+<AxisX>-82.431641</AxisX>
+<AxisY>23.118458</AxisY>
+<Descripcion> Silverio Maestre Parra</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>40A # 107 apto 2 e/ 1ra y 3ra  Miramar, Playa</Direccion>
+</Point>
+<Point>
+<Identificador>32</Identificador>
+<AxisX>-82.309005</AxisX>
+<AxisY>23.091273</AxisY>
+<Descripcion> Daysi Contrera González</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Ina # 11634 e/ pasaje A y calzada de SMP. Altura de SMP</Direccion>
+</Point>
+<Point>
+<Identificador>33</Identificador>
+<AxisX>-82.459781</AxisX>
+<AxisY>23.034814</AxisY>
+<Descripcion> Leonardo de Jesús Valladares Figueroa</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>284 # 8124 e/ 83 y 81, La Lisa</Direccion>
+</Point>
+<Point>
+<Identificador>34</Identificador>
+<AxisX>-82.39389</AxisX>
+<AxisY>23.128107</AxisY>
+<Descripcion> Carlos Romero Guirola</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Zapata # 1608A e/ 2 y 4, Plaza</Direccion>
+</Point>
+<Point>
+<Identificador>35</Identificador>
+<AxisX>-82.390675</AxisX>
+<AxisY>23.112515</AxisY>
+<Descripcion> Rubén Gómez Rodríguez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle Paradero e/ Calle Santa Ana y Avenida Boyeros, Edificio 118 Apto 2, Cerro</Direccion>
+</Point>
+<Point>
+<Identificador>36</Identificador>
+<AxisX>-82.357291</AxisX>
+<AxisY>23.046007</AxisY>
+<Descripcion> Juan Miguel Banguela Alvarez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>3ra #18 e/ 1ra y Altura del Rosario, Rpto Valpe, Arroyo Naranjo</Direccion>
+</Point>
+<Point>
+<Identificador>37</Identificador>
+<AxisX>-82.414217</AxisX>
+<AxisY>23.080464</AxisY>
+<Descripcion> Yolanda Echevarria Gómez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>92 A #6327 e/ 63 y 65 Pogolotti, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>38</Identificador>
+<AxisX>-82.372481</AxisX>
+<AxisY>23.013682</AxisY>
+<Descripcion> Lazaro Arnaldo de la Cruz Lima</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>108 # 29313 e/ 293 y 295, Calabazar, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>39</Identificador>
+<AxisX>-82.432179</AxisX>
+<AxisY>23.075466</AxisY>
+<Descripcion> Sergio Utria Ortiz</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>122 # 4323 apto 1 e/ 43 y 45, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>40</Identificador>
+<AxisX>-82.420255</AxisX>
+<AxisY>23.059316</AxisY>
+<Descripcion> Sonia González Benavides</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Prensa Latina Km 1 1/2, La CUJAE Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>41</Identificador>
+<AxisX>-82.421585</AxisX>
+<AxisY>23.054209</AxisY>
+<Descripcion> Maidel Tamayo Arévalo</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Calle 123 y Final Cujae, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>42</Identificador>
+<AxisX>-82.430467</AxisX>
+<AxisY>23.063151</AxisY>
+<Descripcion> Mailín Valdés Ortega</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>130 # 8922 e/ 89 y 91 Rpto El Palmar, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>43</Identificador>
+<AxisX>-82.426946</AxisX>
+<AxisY>23.063316</AxisY>
+<Descripcion> Judith María Reina Domínguez</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>93 # 12416 e/ 124 y 126, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>44</Identificador>
+<AxisX>-82.430183</AxisX>
+<AxisY>23.062444</AxisY>
+<Descripcion> Mavel Evangelita Pérez Rojas</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>130 # 9102 e/ 91 y 93 Palmar, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>45</Identificador>
+<AxisX>-82.426119</AxisX>
+<AxisY>23.004115</AxisY>
+<Descripcion> Maria Caridad Munde del Toro</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Prensa Latina Km 1 1/2, Wajay, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>46</Identificador>
+<AxisX>-82.429617</AxisX>
+<AxisY>23.002753</AxisY>
+<Descripcion> Marlenis Oduardo Cordoví</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Carretera Prensa Latina Km 1 1/2, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>47</Identificador>
+<AxisX>-82.435674</AxisX>
+<AxisY>23.067521</AxisY>
+<Descripcion> Yunia Marina Barrios Piña</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>65 # 13609 e/ 136 y 138 Los Pocitos, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>48</Identificador>
+<AxisX>-82.426043</AxisX>
+<AxisY>23.068139</AxisY>
+<Descripcion> Selma Friol Duvalón</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Acalle 81 # 12001 e/ 120 y 120A. Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>49</Identificador>
+<AxisX>-82.429927</AxisX>
+<AxisY>23.062927</AxisY>
+<Descripcion> Marisol Cruz Betancourt</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>91 # 12844 e/ 128 B y 130 El Palmar, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>50</Identificador>
+<AxisX>-82.398159</AxisX>
+<AxisY>23.1129</AxisY>
+<Descripcion> Eduardo Nemesio Aguila Blen</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>  28 e/ 45 y 47, Edificio 4507 Apto 2, Kholy, Playa</Direccion>
+</Point>
+<Point>
+<Identificador>51</Identificador>
+<AxisX>-82.290606</AxisX>
+<AxisY>22.972779</AxisY>
+<Descripcion> Oneris Martínez Samón</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>San Rafael # 162 e/ Pocito y Paraíso, Managua, Arroyo Naranjo</Direccion>
+</Point>
+<Point>
+<Identificador>52</Identificador>
+<AxisX>-82.365624</AxisX>
+<AxisY>23.036454</AxisY>
+<Descripcion> Avileydis Nicot Trutié</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Ponce # 8420 E/ Meireles Y Sta teresa, Ponce, Arroyo</Direccion>
+</Point>
+<Point>
+<Identificador>53</Identificador>
+<AxisX>-82.435376</AxisX>
+<AxisY>23.069893</AxisY>
+<Descripcion>Ana Vilches Calderon</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>AVE 57 # 13418 E/ 134 Y 136, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>54</Identificador>
+<AxisX>-82.39133</AxisX>
+<AxisY>23.104795</AxisY>
+<Descripcion> Isidra Esperanza Gómez Rivero</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Daoiz # 308 Apto 3 e/ Colón y Pizarro, Cerro</Direccion>
+</Point>
+<Point>
+<Identificador>55</Identificador>
+<AxisX>-82.389123</AxisX>
+<AxisY>23.066464</AxisY>
+<Descripcion> María de los Dolores Santana García Barbón</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Pasaje Central #13450 Apto 2 e/ 14 y 16 Rpto La Construcción, Boyeros</Direccion>
+</Point>
+<Point>
+<Identificador>56</Identificador>
+<AxisX>-82.416064</AxisX>
+<AxisY>23.079229</AxisY>
+<Descripcion>  Yorlan Hernández Valdés (Chiqui)</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion> 63 # s/n apt1 e/ 92 D y Calle 92 E, Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>57</Identificador>
+<AxisX>-82.420758</AxisX>
+<AxisY>23.059679</AxisY>
+<Descripcion>  Enrique Rodríguez Veranes</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Prensa Latina Km 1 1/2, La CUJAE Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>58</Identificador>
+<AxisX>-82.424344</AxisX>
+<AxisY>23.074998</AxisY>
+<Descripcion> Carlos  Manuel Gómez González</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>61 # 11003 e/ 110 y 112 Mnao</Direccion>
+</Point>
+<Point>
+<Identificador>59</Identificador>
+<AxisX>-82.304482</AxisX>
+<AxisY>23.129042</AxisY>
+<Descripcion> Ricardo Tavier López</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Ramiro # 111 e/ Estrada Palma y Pasaje,  Mambi, Gcoa</Direccion>
+</Point>
+<Point>
+<Identificador>60</Identificador>
+<AxisX>-82.341244</AxisX>
+<AxisY>23.063318</AxisY>
+<Descripcion> Delio Aliaga Oduardo </Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>Fernando # 4 Int e/ Carlos y María Luisa, Párraga, Arroyo Naranjo</Direccion>
+</Point>
+<Point>
+<Identificador>61</Identificador>
+<AxisX>-82.426734</AxisX>
+<AxisY>23.061499</AxisY>
+<Descripcion> José Antonio Mirabal Valdespino</Descripcion>
+<Pasajeros>1</Pasajeros>
+<Direccion>126 # 9902 E/ AVE 101 Y AVE 99, Mnao</Direccion>
+</Point>
+</Points>
+<Depots>
+<Depot>
+<Identificador>62</Identificador>
+<AxisX>-82.519298</AxisX>
+<AxisY>23.065788</AxisY>
+<Descripcion>Depot1</Descripcion>
+<End>0</End>
+<Direccion>Avenida 19 esq Calle 308, El Roble, Playa, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>63</Identificador>
+<AxisX>-82.418739</AxisX>
+<AxisY>23.052476</AxisY>
+<Descripcion>Depot2</Descripcion>
+<End>0</End>
+<Direccion>Avenida 131 esq Calle 211, Marianao, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>64</Identificador>
+<AxisX>-82.418739</AxisX>
+<AxisY>23.052476</AxisY>
+<Descripcion>Depot3</Descripcion>
+<End>0</End>
+<Direccion>Avenida 131 esq Calle 211, Marianao, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>65</Identificador>
+<AxisX>-82.418739</AxisX>
+<AxisY>23.052476</AxisY>
+<Descripcion>Depot4</Descripcion>
+<End>0</End>
+<Direccion>Avenida 131 esq Calle 211, Marianao, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>66</Identificador>
+<AxisX>-82.42459</AxisX>
+<AxisY>23.002995</AxisY>
+<Descripcion>Depot5</Descripcion>
+<End>0</End>
+<Direccion>Calle 274 esq Avenida 269, Wajay, Boyeros, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+<Depot>
+<Identificador>67</Identificador>
+<AxisX>-82.418739</AxisX>
+<AxisY>23.052476</AxisY>
+<Descripcion>DepotCUJAE</Descripcion>
+<End>1</End>
+<Direccion>Avenida 131 esq Calle 211, Marianao, Ciudad de La Habana</Direccion>
+<ListPointAssig>
+</ListPointAssig>
+<ListFleet>
+</ListFleet>
+</Depot>
+</Depots>
+<Vehicles>
+<Vehicle>
+<Chapa>HO1417</Chapa>
+<Capacidad>29</Capacidad>
+</Vehicle>
+<Vehicle>
+<Chapa>HTU498</Chapa>
+<Capacidad>49</Capacidad>
+</Vehicle>
+<Vehicle>
+<Chapa>HO3520</Chapa>
+<Capacidad>16</Capacidad>
+</Vehicle>
+<Vehicle>
+<Chapa>HWO623</Chapa>
+<Capacidad>17</Capacidad>
+</Vehicle>
+<Vehicle>
+<Chapa>HO4482</Chapa>
+<Capacidad>14</Capacidad>
+</Vehicle>
+</Vehicles>
+</VRP>
